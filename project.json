@@ -1,0 +1,22 @@
+{
+  "name": "black-desert-client-settings-panel",
+  "displayName": "Black Desert Client Settings Panel",
+  "programType": "client-settings-panel",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Display groups",
+    "Research notes",
+    "Configuration records"
+  ],
+  "topics": [
+    "black-desert-client-settings-panel",
+    "black-desert-tools",
+    "black-desert-menu",
+    "black-desert-settings",
+    "black-desert-configs",
+    "black-desert-display-groups",
+    "black-desert-research-notes"
+  ]
+}
